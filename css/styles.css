@@ -24,7 +24,6 @@ section {
 /*section title */
 section > h2 {
 	position: absolute;
-	margin: 0;
 	top: 0;
 	right: 0;
 	text-align: center;
